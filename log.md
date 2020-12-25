@@ -1,11 +1,11 @@
 # 100 Days Of Code - Log
 
-### Day 0: February 30, 2016 (Example 1)
+### Day 0: December 25, 2020 
 ##### (delete me or comment me out)
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Progress**: Set up Git Hub Log. Plan to work on Data specific coding mostly, things that I can use at work or understand processes better
 
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Thoughts:**  Plan to work on Data specific coding mostly, things that I can use at work or understand processes better
 
 **Link to work:** [Calculator App](http://www.example.com)
 
