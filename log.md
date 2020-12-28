@@ -9,17 +9,17 @@
 
 **Link to work:** [Calculator App](http://www.example.com)
 
-### Day 0: February 30, 2016 (Example 2)
+### Day 1: December 27, Sunday
 ##### (delete me or comment me out)
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Progress**: figured out how to use power query with Power BI to reduce size of data download. This enables the option og using the import or Direct Query option.
 
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Thoughts**: I know this is not really coding but I have been working on this alot and it helps me ffor work.
 
 **Link(s) to work**: [Calculator App](http://www.example.com)
 
 
-### Day 1: June 27, Monday
+### Day 2: December 2, Monday
 
 **Today's Progress**: I've gone through many exercises on FreeCodeCamp.
 
